@@ -1,0 +1,4 @@
+.venv/
+session*
+daily_inputs/
+.env
