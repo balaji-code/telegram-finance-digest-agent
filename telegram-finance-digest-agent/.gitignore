@@ -2,3 +2,4 @@
 session*
 daily_inputs/
 .env
+.DS_Store

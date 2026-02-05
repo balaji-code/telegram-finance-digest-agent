@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/telegram-finance-digest-agent/.venv/bin/python"
+}

@@ -1,128 +1,180 @@
 Telegram Finance Digest Agent
 
-A practical AI pipeline that ingests image-heavy Telegram finance channels, extracts signal using OCR and semantic de-duplication, and produces a clean daily intelligence-ready corpus for downstream summarization and analysis.
+A production-grade personal intelligence pipeline that ingests image-heavy Telegram finance channels, extracts signal using OCR and semantic de-duplication, and produces a clean, readable daily finance report (TXT + PDF) with zero hallucination.
 
-This project focuses on real-world data ingestion and hygiene, not toy prompts.
+This project focuses on real-world data hygiene, determinism, and presentation — not toy prompts or speculative AI summaries.
 
 ⸻
 
 Why this project exists
 
 Most finance-related Telegram channels publish:
-	•	screenshots instead of text
-	•	repeated headlines with minor wording changes
-	•	high noise-to-signal ratio
+• screenshots instead of text  
+• repeated headlines with minor wording changes  
+• dense broker notes and TV captures  
+• extremely high noise-to-signal ratio  
 
 Naively “summarizing Telegram” fails because:
-	•	OCR output is noisy
-	•	the same news appears dozens of times
-	•	LLMs overweight repetition
+• OCR output is noisy  
+• the same news appears dozens of times  
+• LLMs overweight repetition and hallucinate context  
 
-This project solves that problem systematically.
+This project solves that problem systematically by enforcing:
+signal cleanliness → de-duplication → controlled presentation.
 
 ⸻
 
-What the pipeline does
+What the pipeline does (end-to-end)
 
 1. Telegram ingestion (API-based)
-	•	Uses Telegram API (Telethon)
-	•	Downloads only today’s messages
-	•	Handles hundreds of images per day
-	•	Secure credential handling via .env
+• Uses Telegram API (Telethon)
+• Downloads only today’s messages
+• Handles hundreds of images per day
+• Secure credential handling via .env
+• Stateless, repeatable daily runs
 
 2. OCR extraction
-	•	Converts images → raw text using Tesseract OCR
-	•	Preserves all extracted signal (lossless at this stage)
+• Converts images → raw text using Tesseract OCR
+• Preserves all extracted signal (lossless stage)
+• No correction or guessing at this step
 
-3. OCR cleanup (rule-based)
-	•	Removes OCR junk characters
-	•	Normalizes whitespace
-	•	Eliminates obvious noise
-	•	Keeps content readable and structured
+3. OCR confidence classification
+• Classifies OCR output into:
+  – USABLE
+  – PARTIAL
+  – QUARANTINED
+• Uses LLM-based semantic judgment
+• Prevents unreadable OCR from polluting downstream steps
+• Quarantined content is never discarded, only excluded
 
-4. Semantic de-duplication (Phase 2)
-	•	Splits content into paragraphs
-	•	Uses sentence embeddings (sentence-transformers)
-	•	Removes near-duplicate ideas using cosine similarity
-	•	Retains one representative paragraph per idea
+4. Semantic de-duplication
+• Splits text into paragraphs
+• Uses sentence embeddings (sentence-transformers)
+• Removes near-duplicate ideas using cosine similarity
+• Aggressive de-duplication for clean text
+• Conservative de-duplication for partial text
+• Guarantees no loss of unique information
 
-5. Daily corpus generation
-	•	Merges cleaned OCR text + native Telegram text
-	•	Produces a single daily file ready for:
-	•	thematic consolidation
-	•	summarization
-	•	trend analysis
-	•	agent-based reasoning
+5. Daily digest generation
+• Converts deduplicated content into a factual daily digest
+• Bullet-style, no creative rewriting
+• Sectioned by:
+  – Market & Macro
+  – Corporate Actions
+  – Earnings
+  – Sector / Themes
+  – Policy / Regulatory
+• LLM used only for classification + compression
+• Temperature = 0 (deterministic)
+
+6. Company-wise consolidation (presentation-only)
+• Groups all earnings and updates by company
+• Eliminates repetition without summarizing
+• One company = one block
+• No inference, no editorial judgment
+
+7. Report formatting & export
+• Produces:
+  – daily_digest.txt (audit-friendly)
+  – daily_report.pdf (human-readable)
+• PDF rendering handles Unicode safely
+• Presentation improvements only, no intelligence added
+
+8. Optional local UI (Streamlit)
+• One-click “Run Full Pipeline”
+• One-click “Generate Today’s Digest”
+• View output on screen
+• Download TXT or PDF
+• UI is a thin wrapper — pipeline remains headless
 
 ⸻
 
-Project structure
-.
-├── telegram_ingest/
-│   ├── download.py          # Telegram API ingestion (date-restricted)
-│   ├── ocr.py               # Image → text OCR
-│   ├── clean_ocr.py         # OCR cleanup & normalization
-│   ├── phase2_dedup.py      # Semantic paragraph de-duplication
-│   └── merge_daily.py       # Daily corpus creation
+Project structure (current)
+
+telegram-finance-digest-agent/
+├── pipeline/
+│   ├── step0_download_images.py
+│   ├── step1_ocr.py
+│   ├── step2_llm_confidence.py
+│   ├── step3_semantic_dedup.py
+│   ├── step4_daily_digest.py
+│   ├── step5_format_report.py
+│   └── run_full_pipeline.py
 │
-├── daily_inputs/            # Generated data (gitignored)
-│   ├── *.jpg
-│   ├── image_text_clean.txt
-│   ├── image_text_dedup.txt
-│   └── daily_YYYY-MM-DD.txt
+├── pipeline_outputs/         # Generated artifacts (gitignored)
+│   ├── usable.json
+│   ├── partial.json
+│   ├── quarantine.json
+│   ├── formatted_report.json
+│   └── daily_report.pdf
 │
-├── .env                     # API credentials (gitignored)
+├── daily_inputs/             # Raw Telegram images (gitignored)
+│   └── *.jpg
+│
+├── ui/
+│   └── app.py                # Local Streamlit UI
+│
+├── .env                      # API credentials (gitignored)
 ├── .gitignore
 └── README.md
 
+⸻
+
 Technologies used
-	•	Telethon – Telegram API client
-	•	Tesseract OCR – image text extraction
-	•	sentence-transformers – semantic similarity & de-duplication
-	•	Python – pipeline orchestration
 
-LLMs are intentionally not used in early stages to:
-	•	reduce cost
-	•	improve determinism
-	•	avoid overfitting noise
-
-⸻
-
-Security & best practices
-	•	Telegram API credentials loaded via .env
-	•	Session files and raw data excluded from Git
-	•	No secrets committed
-	•	Stateless daily ingestion (idempotent)
+• Telethon — Telegram API client  
+• Tesseract OCR — image → text extraction  
+• sentence-transformers — semantic embeddings & de-duplication  
+• OpenAI API — controlled classification & compression  
+• FPDF — PDF report generation  
+• Streamlit — local UI  
+• Python — orchestration  
 
 ⸻
 
-What this is not
-	•	❌ Not a trading bot
-	•	❌ Not financial advice
-	•	❌ Not a generic “AI summarizer”
+Design principles
 
-This is an ingestion + signal preparation system.
+• Compression before cognition  
+• Clean signal before intelligence  
+• Determinism before cleverness  
+• Presentation without hallucination  
+• Pipelines before agents  
+
+⸻
+
+What this project is NOT
+
+• ❌ Not a trading bot  
+• ❌ Not financial advice  
+• ❌ Not a generic AI “summarizer”  
+• ❌ Not a chat interface  
+
+This is a **signal preparation + reporting system**.
 
 ⸻
 
 Current status
-	•	✅ Telegram ingestion working
-	•	✅ OCR pipeline stable
-	•	✅ Semantic de-duplication validated
-	•	⏳ Phase 3: thematic consolidation (next)
-	•	⏳ Daily summary agent (planned)
+
+• ✅ End-to-end pipeline stable  
+• ✅ OCR confidence gating validated  
+• ✅ Semantic de-duplication validated  
+• ✅ Company-wise consolidation implemented  
+• ✅ Daily PDF report generation stable  
+• ✅ Local UI integrated  
+• 🔒 Pipeline frozen (presentation-only changes allowed)
 
 ⸻
 
 Who this is for
-	•	AI builders working with messy real-world data
-	•	Developers interested in agents + pipelines
-	•	Anyone trying to extract signal from Telegram / WhatsApp-style feeds
+
+• Builders working with messy real-world data  
+• Developers interested in pipelines over prompts  
+• Analysts drowning in Telegram noise  
+• Anyone who values correctness over cleverness  
 
 ⸻
 
 Philosophy
 
-Compression before cognition.
-Clean signal before intelligence.
-Determinism before cleverness.
+Clean signal is intelligence.
+Intelligence without hygiene is noise.
