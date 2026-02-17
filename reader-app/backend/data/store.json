@@ -1,0 +1,65 @@
+{
+  "documents": [
+    {
+      "id": "doc_1771322281331_136948",
+      "title": "AI Engineering.pdf",
+      "type": "pdf",
+      "fileName": "1771322281167_AI_Engineering.pdf",
+      "originalName": "AI Engineering.pdf",
+      "createdAt": "2026-02-17T09:58:01.331Z"
+    }
+  ],
+  "highlights": [
+    {
+      "id": "hl_1771322344804_907234",
+      "documentId": "doc_1771322281331_136948",
+      "pageRef": "Page 23",
+      "selectedText": "commented on my posts",
+      "color": "#ffe066",
+      "anchor": null,
+      "createdAt": "2026-02-17T09:59:04.804Z"
+    },
+    {
+      "id": "hl_1771323293895_855429",
+      "documentId": "doc_1771322281331_136948",
+      "pageRef": "Page 15",
+      "selectedText": "What’s an agent",
+      "color": "#ffe066",
+      "anchor": null,
+      "createdAt": "2026-02-17T10:14:53.895Z"
+    }
+  ],
+  "notes": [],
+  "vocabulary": [
+    {
+      "word": "exhausted",
+      "phonetic": "/ɪɡˈzɑstɪd/",
+      "partOfSpeech": "verb",
+      "meaning": "To draw or let out wholly; to drain off completely",
+      "examples": [
+        "Moisture of the earth is exhausted by evaporation.",
+        "to exhaust a treasury",
+        "I exhausted my strength walking up the hill.",
+        "The marathon exhausted me.",
+        "That subject has already been fully exhausted."
+      ],
+      "savedAt": "2026-02-17T09:37:04.608Z"
+    },
+    {
+      "word": "domesday",
+      "phonetic": "",
+      "partOfSpeech": "noun",
+      "meaning": "The day when God is expected to judge the world; end times.",
+      "examples": [],
+      "savedAt": "2026-02-17T09:45:49.801Z"
+    },
+    {
+      "word": "dmls",
+      "phonetic": "",
+      "partOfSpeech": "",
+      "meaning": "Unable to fetch dictionary result right now. Try again later.",
+      "examples": [],
+      "savedAt": "2026-02-17T10:15:16.308Z"
+    }
+  ]
+}

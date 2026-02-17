@@ -1,0 +1,473 @@
+:root {
+  --bg-deep: #050816;
+  --bg-mid: #0b1227;
+  --panel: #f8fbff;
+  --panel-edge: #cbd7ec;
+  --ink: #0f1b32;
+  --ink-soft: #445375;
+  --accent: #ff7a18;
+  --accent-2: #05b2ff;
+  --ok: #12a858;
+  --warn: #ef4444;
+  --radius-lg: 20px;
+  --radius-md: 12px;
+  --shadow: 0 18px 38px rgba(7, 13, 30, 0.28);
+  font-family: "Manrope", "Avenir Next", "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-size: 16px;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 10% 10%, rgba(5, 178, 255, 0.22) 0%, transparent 28%),
+    radial-gradient(circle at 82% 12%, rgba(255, 122, 24, 0.22) 0%, transparent 26%),
+    linear-gradient(145deg, var(--bg-deep) 0%, var(--bg-mid) 44%, #0f172f 100%);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.1rem;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 1.1rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.app-shell {
+  max-width: 1580px;
+  margin: 0 auto;
+  padding: 18px;
+  display: grid;
+  gap: 14px;
+}
+
+.panel {
+  background: linear-gradient(170deg, #ffffff 0%, #f5f9ff 100%);
+  border: 1px solid var(--panel-edge);
+  border-radius: var(--radius-lg);
+  padding: 14px;
+  box-shadow: var(--shadow);
+}
+
+.topbar {
+  display: grid;
+  gap: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.topbar::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(110deg, rgba(5, 178, 255, 0.08), rgba(255, 122, 24, 0.1));
+  pointer-events: none;
+}
+
+.topbar > * {
+  position: relative;
+}
+
+.topbar p {
+  color: var(--ink-soft);
+  margin-top: 6px;
+}
+
+.top-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.upload-form {
+  display: grid;
+  grid-template-columns: minmax(280px, 420px) 130px;
+  gap: 10px;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 14px;
+}
+
+.collections {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.library,
+.reader-panel,
+.collections .panel {
+  min-height: 280px;
+}
+
+.reader-panel {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 10px;
+}
+
+.reader-body {
+  height: 78vh;
+  min-height: 520px;
+  border: 1px solid #8ca2cc;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  background: #f3f7ff;
+}
+
+.reader-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 10px;
+  border-bottom: 1px solid #d3ddf0;
+  background: linear-gradient(90deg, #f9fbff 0%, #e8f0ff 100%);
+  font-weight: 700;
+  color: #1f2f52;
+}
+
+.nav-btn {
+  width: 36px;
+  height: 30px;
+  padding: 0;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.reader-tip {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.pdf-stage,
+.epub-stage {
+  overflow: auto;
+  padding: 16px;
+}
+
+.pdf-hit {
+  background: var(--pdf-hit, #fde047);
+  border-radius: 2px;
+}
+
+.pdf-inline-hit {
+  background: color-mix(in srgb, var(--pdf-hit, #fde047) 70%, white 30%);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+.epub-stage > div {
+  width: 100%;
+  height: 100%;
+}
+
+.cover-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.cover-grid li {
+  position: relative;
+}
+
+.doc-btn {
+  width: 100%;
+  border: 1px solid transparent;
+  background: transparent;
+  border-radius: var(--radius-md);
+  padding: 0;
+  cursor: pointer;
+  transition: transform 140ms ease, box-shadow 140ms ease, border-color 140ms ease;
+}
+
+.doc-btn:hover {
+  transform: translateY(-2px) scale(1.01);
+}
+
+.doc-btn.active {
+  border-color: #22d3ee;
+  box-shadow: 0 0 0 3px rgba(34, 211, 238, 0.25);
+}
+
+.book-cover {
+  width: 100%;
+  min-height: 190px;
+  aspect-ratio: 3 / 4.2;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background:
+    radial-gradient(circle at 12% 10%, rgba(255, 255, 255, 0.22) 0%, transparent 28%),
+    linear-gradient(160deg, var(--cover-a, #1d4ed8) 0%, var(--cover-b, #0ea5e9) 100%);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  align-items: start;
+  padding: 8px 8px 10px;
+  color: #f8fafc;
+  box-shadow: 0 14px 20px rgba(5, 10, 24, 0.25);
+}
+
+.cover-type {
+  justify-self: end;
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  border-radius: 999px;
+  padding: 2px 8px;
+  background: rgba(4, 14, 35, 0.45);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.cover-initials {
+  align-self: center;
+  justify-self: center;
+  font-size: 1.9rem;
+  letter-spacing: 0.08em;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.34);
+}
+
+.cover-stripe {
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.82);
+}
+
+.cover-delete {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.9) 0%, rgba(2, 6, 23, 0.9) 100%);
+  border-color: rgba(255, 255, 255, 0.35);
+  color: #f8fafc;
+}
+
+.cover-delete svg {
+  width: 14px;
+  height: 14px;
+}
+
+input,
+textarea,
+select,
+button {
+  width: 100%;
+  font: inherit;
+  border-radius: var(--radius-md);
+  border: 1px solid #c7d5ef;
+  padding: 10px 12px;
+  color: var(--ink);
+}
+
+input,
+textarea,
+select {
+  background: #ffffff;
+}
+
+textarea {
+  min-height: 92px;
+  resize: vertical;
+}
+
+button {
+  cursor: pointer;
+  font-weight: 700;
+  color: #ffffff;
+  background: linear-gradient(130deg, #ff7a18 0%, #ef4444 100%);
+  border-color: #df4b13;
+  transition: transform 120ms ease, filter 120ms ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.05);
+}
+
+button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.undo-btn {
+  width: 110px;
+  background: linear-gradient(140deg, #0ea5e9 0%, #2563eb 100%);
+  border-color: #1d4ed8;
+}
+
+.content-card {
+  background: #ffffff;
+  border: 1px solid #d7e0f2;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.jump-link {
+  width: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #1147b7;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.jump-link:hover {
+  transform: none;
+  filter: none;
+  color: #0b3b99;
+}
+
+.swatch {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+  margin-right: 8px;
+  border: 1px solid rgba(15, 23, 42, 0.2);
+}
+
+li p {
+  margin-top: 5px;
+  color: #1f3158;
+  font-size: 0.94rem;
+}
+
+.usage-line {
+  margin-top: 6px;
+  font-size: 0.86rem;
+  color: #516489;
+  font-style: italic;
+}
+
+.content-link {
+  color: #0f4cc9;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  word-break: break-word;
+}
+
+.error,
+.status {
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  border: 1px solid;
+  font-weight: 700;
+}
+
+.error {
+  background: #fee2e2;
+  border-color: #f87171;
+  color: #7f1d1d;
+}
+
+.status {
+  background: #dcfce7;
+  border-color: #22c55e;
+  color: #14532d;
+}
+
+.reader-context-menu {
+  position: fixed;
+  z-index: 1000;
+  width: 270px;
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid #fb923c;
+  background: linear-gradient(165deg, #fff7ed 0%, #ffedd5 100%);
+  box-shadow: 0 16px 34px rgba(2, 8, 23, 0.28);
+  display: grid;
+  gap: 8px;
+  animation: menuFadeIn 160ms ease-out;
+}
+
+.reader-context-menu button {
+  background: linear-gradient(140deg, #0284c7 0%, #0369a1 100%);
+  border-color: #0369a1;
+}
+
+.reader-context-menu button:first-of-type {
+  background: linear-gradient(140deg, #f59e0b 0%, #ea580c 100%);
+  border-color: #c2410c;
+}
+
+.reader-context-menu button:nth-of-type(2) {
+  background: linear-gradient(140deg, #16a34a 0%, #15803d 100%);
+  border-color: #166534;
+}
+
+.menu-selection {
+  font-size: 0.9rem;
+  color: #334155;
+  max-height: 56px;
+  overflow: hidden;
+}
+
+@keyframes menuFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (max-width: 1180px) {
+  .workspace,
+  .collections {
+    grid-template-columns: 1fr;
+  }
+
+  .reader-body {
+    height: 64vh;
+    min-height: 420px;
+  }
+
+  .top-actions,
+  .upload-form {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .undo-btn {
+    width: 100%;
+  }
+}

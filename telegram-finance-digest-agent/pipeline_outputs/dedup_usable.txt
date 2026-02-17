@@ -1,716 +1,868 @@
 Good Morning!
 
-The GIFT Nifty is trading with losses of around 0.07% at 25,848, indicating a flat to negative open for the benchmark index. iG
-and European index futures, meanwhile, are trading lower during Asian trading hours.
+‘The GIFT Nifty is trading marginally lower near 25,955 indicating a positive open for the benchmark Nifty 50.
 
-+ S&P 500 lower by 0.51%,
-+ Euro Stoxx 50 lower by 0.39%.
+US and European index futures are trading higher during Asian trading hours.
+
++ SBP 500 futures trade up 1.97%
++ Euro Stoxx 50 futures down 1.23%
 
 Market Recap
 
-Towards the end of the session, Nifty rose 48.45 points, oF 0.19%, to close at 25,776, while the Sensex gained 78.56 points or
-0.09%, to finish at 83,817.69.
+India's benchmerk Nifty and Sensex ended higher for the day and the extended week on Friday, swimming through the Union
+Budget, India-US trade deal, Anthropic Al shock to IT and Reserve Bank of india repo rate policy, The Nifty ended 31 points or
+0.1% higher at 25,674 while the BSE Sensex added 266 points or 0.3% to close at 83,580, Broader markets underperformed the
+benchmark, with the Nifty Midcap 150 ending flat and the Nifty Smalicap 250 closing 0.29% lower. Among frontline stocks, ITC
+and Kotak Bank were the top gainers on the Nifty, lending support to the index.
 
-Benchmark indices underperformer broader market. Nifty Midcap rose 0.6% and the Smalicap index gained 1.2%. Sector wise,
-the IT index slumped 6% on Al related jolts, whereas auto, energy, consumer durables, PSU, realty, metal, oll & gas, and power
-stocks recorded gains of 1~2%.
+US Market Wrap
 
-Us Market Recap
+US stocks, which bounced back on Friday after a steep mid-week drop, may face additional pressure in the coming days as
+trend-driven algorithmic investors step up thelr selling, according to Goldman Sachs Group inc’ trading desk. Goldman says
+the S&P 500 has already slipped past a key short-term threshold that triggers selling by Commodity Trading Advisers (CTAS),
+{as per reports from Bloomberg.
 
-Wall Street continued to see a shift away from major technology companies — whose steady earnings have traditionally made
-them a refuge during periods of economic uncertainty ~ as investors moved into a broader set of stocks tied to better growth
-prospects. Bitcoin also deepened its decline
+The firm expects these rules-based funds to continue offloading equities throughout the week, regardless of how the broader,
+market moves. If the market resumes its decline, roughly $33 billion in CTA-elated stock selling could be unleashed this week.
+‘And should the S&P 500 fall below 6,707, Goldman estimates as much as $80 billion in additional systematic selling could
+Unfold over the next month
 
-Us equities trimmed earlier losses after reports suggested that nuclear discussions between the US and Iran were stil
-progressing, despite earlier indications of a possible setback. The S&P 500 hovered slightly lower, even as most of its
-constituents traded in positive territory. The Nasdaq 100 dropped 1.8%, with software shares under pressure again and an
-‘even sharper selloff hitting semiconductor makers, as per Bloomberg reports,
+Asian Market Update
 
-Asian Market Check
+‘Asian equities climbed at the open on Monday, tracking Wall Street's strong rebound at the end of a turbulent week. Markets in
+Japan and South Korea led the advance, with sentiment boosted further in Tokyo after Prime Minister Sanae Takaichi secured
+‘a decisive election win. US equity futures also opened higher, extending Friday's momentum, when the S&P 500 rallied nearly
+2% on renewed dip-buying and an improvement in consumer sentiment data. South Korea's Kospi Index — often seen as
+benchmark for enthusiasm around artificial intelligence-linked stocks ~ surged about 4%, outperforming the region, as
+reported by Bloomberg,
 
-Asian equities declined for a second straight session as a sell-off in US technology stocks prompted investors to shift toward
-‘a wider mix of sectors amid worries over stretched valuations and rising expenditure. The MSCI Asia Pacific Index slipped
-0.3% at the open. South Korea's Kospi ~ one of the strongest global performers this year and a key barometer for A-linked
-investments ~ led the regional downturn with a 1.6% drop, reports Bloomberg,
+‘Commodity Check
 
-Commodity Check
+Gold pushed above $5,000 an ounce as bargain hunters stepped back into the market following an unusually turbulent week
+for precious metals, Spot prices rose as much as 1.7% in early trading. The metal also found support from the decisive
 
-Gold rebounded, climbing back above the $5,000-an-ounce mark as bargain hunters stepped in following the metal's dramatic
-drop from its record peak. Spot gold gained up to 1.2% in early trade, extending its partial recovery from the previous two
-sessions after the abrupt sell-off, Despite the bounce, the metal still ended Wednesday about 11% below its Jan. 29 alltime
-high, though it remains up 15% so far this year. Silver strengthened as well, moving past the $90-an-ounce level, reports
-Bloomberg
+re-election of Japan's Prime Minister Sanae Takaichi
 
-Oll prices retreated for the first time in three sessions after iran confirmed it would enter talks with the US, reducing the
-immediate threat of military action against the OPEC member. Brent crude slipped toward $68 a barrel after gaining 4.8% over
-the previous two days, while West Texas Intermediate traded near $64 a barrel
+‘oll, meanwhile, moved lower as easing geopolitical tensions in the Middle East reduced the immediate risk of supply
+disruptions. Brent crude slipped toward $67 a barrel after nearly a 4% drop last week, while West Texas intermediate traded
+around $63. The pullback came after Iran and the United States held talks in Oman on Friday aimed at cooling tensions
+surrounding Tehran's nuclear program. iran described the discussions as “a step forward; helping calm the market's risk
+premium, as reported by Bloomberg
 
 Key Events To Watch
-RBI's monetary policy committee meeting starts, and the interest rate decision will be announced on Friday.
+
++ Supreme Court to hear appeals filed by Meta, WhatsApp for antitrust case.
+‘+ Aye Finance IPO and Fractal Analytics IPO open for sale.
+
 Earnings In Focus
 
-AAVAS Financiers, Aditya Birla Fashion and Retail, Alicargo Logistics, Anthem Biosciences, Alembic Pharmaceuticals, Astral,
-Berger Paints India, Bharti Airtel, Bharti Hexacom, Borosil, Caplin Point Laboratories, Cemindia Projects, Dalmia Bharat Sugar
-and industries, Data Patterns (India), Dhanuka Agritech, Dredging Corporation of india, GNG Electronics, Eveready Industries
-India, FOC, Godre} Properties, Gokul Agro Resources, Goodyear India, Harsha Engineers international, HealthCare Global
-Enterprises, Hero MotoCorp, Hindustan Copper, Indian Oil Corporation, J. Kumar Infraprojects, JK Paper, JM Financial, Kaynes
-Technology india, Kennametal india, Kirloskar Brothers, KNR Constructions, Kolte-Patil Developers, Krsnaa Diagnostics, Life
-Insurance Corporation of india, Marksans Pharma, Max Healthcare Institute, Mazagon Dock Shipbullders, Minda Corporation,
-NCC, Nilkamal, FSN E-Commerce Ventures, Page Industries, Power Finance Corporation, Pitti Engineering, Poly Medicure,
-Hitachi Energy india, PVR Inox, Shree Renuka Sugars, Repco Home Finance, Rall Vikas Nigam, Sai Life Sciences, Shivalik
-Bimetal Controls, Shreeji Shipping Global, SKF India, Suzlon Energy, Thomas Cook (India), Tata Motors Passenger Vehicles,
-Updater Services, Unichem Laboratories, UNO Minda, Varroc Engineering, Venus Pipes & Tubes, Viyash Scientific, Voltamp.
-Transformers, VRL Logistics, VA Tech Wabag, Yatharth Hospital & Trauma Care Services.
+Chemplast Sanmar, Ganesha Ecosphere, General Insurance Corporation of India, Goldiam International, HBL Engineering, Hl.
+‘Tech Pipes, India Shelter Finance Corporation, LG Balakrishnan & Bros, Mahanagar Gas, Oswal Pumps, Sarda Energy &
+Minerals, State Bank of India, SMS Pharmaceuticals, Tarc, Ugro Capital, VST Tillers Tractors, All Time Plastics, Apollo Micro
+Systems, Aurobindo Pharma, Bajaj Electricals, Bata India, Ceigall India, Cholamandalam Financial Holdings, Dynamatic
+Technologies, EIH Associated Hotels, Electronics Mart india, Genus Power Infrastructures, GlaxoSmithKline Pharmaceuticals,
+Graphite India, Gujarat State Fertlizers & Chemicals, Gulf Oll Lubricants india, Happlest Minds Technologies, Happy Forgings,
+Indostar Capital Finance, ISGEC Heavy Engineering, Jyothy Labs, K PR. Mill, Kaveri Seed Company, Linde India, Man Industries
+({ndia), Muthoot Microfin, Navin Fluorine Intemational, Neuland Laboratories, NRB Bearings, Pfizer, PNC Infratech, P N Gadgil
+Jewellers, The Ramco Cements, Rolex Rings, Route Mobile, Suprajit Engineering, Supriya Lifescience, TCPL Packaging, Trident,
+Vadilal Industries, Venkys (India), Zydus Lifesciences
 
 ---
 
-RedboxGlobal India @ @... -54m
-TRENT:
+Earnings Post Market Hours
+Crompton Greaves Consumer Electricals Q3 (Cons, YoY)
+Revenue up 7.3% at Rs 7,898 crore versus Rs 1,769 crore
+EBITDA up 2.5% at Rs 195 crore versus Rs 191 crore
+EBITDA Margin down 50 bps at 10.3% versus 10.8%
 
-Q3 CONS NET PROFIT 5.1B RUPEES VS
-4.96B (YOY); EST 5.35B || Q3 REVENUE
-53.45B RUPEES VS 46.7B (YOY)
+Net Profit down 10.5% at Rs 98.3 crore versus Rs 110 crore
+GMM Pfaudler 3 (Cons, YoY)
 
-Q3 EBITDA 10.8B RUPEES VS 8.43B (YOY)
-|| Q3 EBITDA MARGIN 20.22% VS 18.1%
+Revenue up 10.2% at Rs 884 crore versus Rs 801 crore
+EBITDA up 9.5% at Rs 105 crore versus Rs 95.9 crore
+EBITDA Margin down 10 bps at 11.9% versus 12.0%
+
+Net Loss at Rs 8 crore versus Profit of Rs 41.5 crore
+
+Kalyan Jewellers Q3 (Cons, YoY)
+
+Revenue up 42.1% at Rs 10,343 crore versus Rs 7.278 crore
+EBITDA up 74.5% at Rs 750 crore versus Rs 430 crore
+EBITDA Margin up 140 bps at 7.3% versus 5.9%
+
+Net Profit up 90.3% at Rs 416 crore versus Rs 219 crore
+‘Jana Small Finance Bank Q3 (YoY)
+
+Nil up 14.0% at Rs 675 crore versus Rs 593 crore
+
+Operating Profit up 2.7% at Rs 287 crore versus Rs 279 crore
+Net Profit down 91.2% at Rs 9.7 crore versus Rs 110.7 crore
+Gross NPA at 2.59% versus 2.87% (QoQ)
+
+Shree Cement Q3 (Cons, YoY)
+
+Revenue up 5.0% at Rs 4,801 crore versus Rs 4,673 crore
+EBITDA down 1.8% at Rs 947 crore versus Rs 965 crore
+EBITDA Margin down 140 bps at 19.7% versus 21.1%
+
+Net Profit up 37.9% at Rs 267 crore versus Rs 193 crore
+Tata Steel Q3 (Cons, QoQ)
+
+Revenue down 2.9% at Rs 57,002 crore versus Rs $8,689 crore
+EBITDA down 7.8% at Rs 8,200 crore versus Rs 8,896 crore
+EBITDA Margin down 80 bps at 14.4% versus 15.2%
+
+Net Profit down 13.3% at Rs 2,689 crore versus Rs 3,102 crore
+Sula Vineyards 3 (Cons, YoY)
+
+Revenue down 9.9% at Rs 180 crore versus Rs 200 crore
+EBITDA down 39.8% at Rs 32 crore versus Rs 53.1 crore
+EBITDA Margin down 880 bps at 17.7% versus 26.5%
+
+Net Profit down 67.6% at Rs 9.1 crore versus Rs 28.1 crore
+
+---
+
+Medi Assist Healthcare Q3 (Cons, YoY)
+
+Revenue up 28.9% at Rs 240 crore versus Rs 186 crore
+EBITDA up 12.3% at Rs 44.6 crore versus Rs 39.7 crore
+EBITDA Margin down 280 bps at 18.6% versus 21.4%
+
+Net Profit down 85.9% at Rs 4.2 crore versus Rs 29.5 crore
+Gujarat Alkalies Q3 (Cons, YoY)
+
+Revenue up 1.5% at Rs 1,044 crore versus Rs 1,029 crore
+EBITDA up 6.9% at Rs 105 crore versus Rs 98 crore
+EBITDA Margin up 50 bps at 10.0% versus 9.5%
+
+Net Loss at Rs 20 crore versus Loss of Rs 11.2 crore
+
+KIMS Q3 (Cons, YoY)
+
+Revenue up 29.2% at Rs 998 crore versus RS 772 crore
+EBITDA up 6.3% at Rs 199 crore versus Rs 187 crore
+EBITDA Margin down 430 bps at 19.9% versus 24.2%
+
+Net Profit down 39.8% at Rs 53.4 crore versus Rs 88.7 crore
+Bosch Q3 (Cons, YoY)
+
+Revenue up 9.4% at Rs 4,886 crore versus Rs 4,466 crore
+EBITDA up 5.1% at Rs 612 crore versus Rs 583 crore
+EBITDA Margin down 50 bps at 12.5% versus 13.0%
+
+Net Profit up 16.2% at Rs 532 crore versus Rs 458 crore
+Sharda Motor industries Q3 (Cons, YoY)
+
+Revenue up 27.8% at Rs 882 crore versus Rs 690 crore
+EBITDA up 12.6% at Rs 106 crore versus Rs 94.5 crore
+EBITDA Margin down 160 bps at 12.1% versus 13.7%
+
+Net Profit up 7.8% at Rs 81.4 crore versus Rs 75.4 crore
+Baazar Style Retail Q3 (Cons, YoY)
+
+Revenue up 13.3% at Rs 467 crore versus Rs 412 crore
+EBITDA up 7.9% at Rs 89.4 crore versus Rs 83.3 crore
+EBITDA Margin down 100 bps at 19.2% versus 20.2%
+
+Net Profit down 37.7% at Rs 19 crore versus Rs 30.4 crore
+SH Kelkar & Company Q3 (Cons, YoY)
+
+Revenue up 7.5% at Rs 984 crore versus Rs $43 crore
+EBITDA down 13.1% at Rs 56.1 crore versus Rs 64.6 crore
+EBITDA Margin down 230 bps at 9.6% versus 11.9%
+
+Net Profit up 86.4% at Rs 32.7 crore versus Rs 17.5 crore
+
+---
+
+GR Infraprojects Q3 (Cons, YoY)
+
+Revenue up 36.2% at Rs 2,308 crore versus Rs 1,695 crore
+EBITDA up 26.6% at Rs 468 crore versus Rs 370 crore
+EBITDA Margin down 150 bps at 20.3% versus 21.8%
+
+Net Profit down 1.0% at Rs 259 crore versus Rs 262 crore
+Shipping Corporation of India Q3 (Cons, YoY)
+
+Revenue up 22.5% at Rs 1,612 crore versus Rs 1,316 crore
+EBITDA up 89.8% at Rs 679 crore versus Rs 357 crore
+EBITDA Margin up 1490 bps at 42.1% versus 27.2%
+
+Net Profit up 436.4% at Rs 405 crore versus Rs 75.5 crore
+Swan Energy Q3 (Cons, YoY)
+
+Revenue down 39.7% at Rs 1,150 crore versus Rs 1,908 crore
+EBITDA at Rs 25.2 crore versus Loss of Rs 656 crore
+EBITDA Margin at 2.2%
+
+Net Loss at Rs 9.9 crore versus Profit of Rs 583 crore
+Fusion Finance Q3 (YoY)
+
+Calculated Nil up 7.0% at Rs 239 crore versus Rs 225 crore
+
+Net Profit at Rs 14.1 crore versus Loss of Rs 719 crore
+
+Kalpataru Q3 (Cons, YoY)
+Revenue down 14.1% at Rs 505 crore versus Rs 588 crore
+EBITDA Loss at Rs 74.7 crore versus Profit of Rs 38.4 crore
+Net Loss at Rs 62.8 crore versus Loss of Rs 21.9 crore
+Prataap Snacks Q3 (Standalone, YoY)
+
+Revenue up 3.8% at Rs 462 crore versus Rs 445 crore
+EBITDA at Rs 20.3 crore versus Loss of Rs 5.4 crore
+EBITDA Margin at 4.4%
+
+Net Profit at Rs 3.3 crore versus Loss of Rs 37.9 crore
+
+---
+
++ PB Fintech: RBI allows the company’s arm to carry payment aggregator biz.
+
+» IREDA: The company approves to raise Rs. 2,994 crore via QIP. G
+
++ Cohance Life: USFDA ends inspection at the company's Hyderabad unit with 6 observations.
+
++ Electrosteel Castings: The company re-appoints Mr. Sunil Katial as the CEO for 5 years.
+
++ Leela Palaces Hotels & Resorts: The company's arm receives an assessment order issued by the income tax department for
+assessment year 2023-24.
+
++ Karnataka Bank: The bank's ClO & CTO Mr. Venkat Veeramoni has resigned.
+
+* TruAlt Energy: The company has been allowed 90 day extension by Karnataka HC to supply 1.56 KL Ethanol worth Rs. 1,075
+crore.
+
++ IFGL Refractories: The shareholders have approved re-appointment of Mr. Shishir Bajoria as executive chairman of the
+company.
+
+* Brightcom Group: The company appoints Mr. Ravindra Kondamuri as the CFO & Mr. Narayana Raju as the CEO.
+
++ Epack Durable: The company receives Phase III incentive of Rs. 7.4 crore under M-SIPS.
+
+* Globus Spirits: The company launches “Globus Spirits Ryder” in tetra pack at 90/180 ml, launches new brand in Uttar
+Pradesh.
+
+---
+
+IPOs To Open Today
+‘Aye Finance
+
++ The Company operates as an NBFC offers secured and unsecured small business loans for working capital, including
+mortgage loans
+
++ The company’s IPO is set to open today in trade; Size of this IPO is Rs 1,010.00 crore and has a fresh issue worth Rs 710.00
+crore & rest OFS of Rs 300 crore.
+
+++ The Price band is set between Rs 122 to Rs 129 per share
+
+Fractal Analytics
+
++ The Company operates as a global enterprise Al and analytics firm, supports major companies in making more intelligent
+decisions,
+
++ The company's IPO is set to open today in trade; Size of this IPO is Rs 2,833.90 crore and has a fresh issue worth Rs
+1,023.5 crore & rest OFS of Rs 7,810.4 crore.
+
++ The Price band is set between Rs 857 to Rs 900 per share
+
+Bulk And Block Deals
+SG Finserve: S Gupta Holding bought 3 lakh shares at Rs. 356.32 a piece.
+
+Vadilal industries: PSL bought 1.18 lakh shares at Rs, 4,581.22 a piece and KIFS Enterprise sold 92,000 shares at Rs. 4,578.47
+apiece
+
+Insider Trades
+Advanced Enzyme Technologies: Vasant Rathi, Promoter and Director, acquires 21,334 shares.
+
+Onesource Speciality Pharma: Tenshi Pharmaceuticals, Promoter, acquires 5.65 lakh shares and Pronomz ventures, Promoter
+Group, acquires 78,906 shares.
+
+Corporate Actions
+
+Go Fashion (India) Ltd. Buy Back
+
+Shares to exit anchor Lock-in on
+
+Billionbrains Garage Ventures ~ 9th Feb: 3 months share lock-in,149 mn lock-in shares, 2% of total outstanding shares
+Ceigall india - 9th Feb: 1.5 yrs share lock in, 34.8 mn lock-in shares, 20% of total outstanding shares
+
+Board Meeting
+
+Sterlite Technologies Limited ~ Fund Raising
+
+India Shelter Finance Corporation Limited ~ Fund Raising
+
+Muthoot Microfin Limited ~ Fund Raising
+
+Lloyds Enterprises Limited - Fund Raising
+
+List of securities shortlisted in Short - Term ASM Framework Stage: Oriana Power, Pokarna, Shreeji Shipping, Ujaas Energy.
+
+List of securities to be excluded from ASM Framework: Bajaj Consumer Care
+
+Price Band Changes: NIL.
+
+F&O Cues
+
++ Nifty Feb futures is up 0.02% to 25,729.80 at a premium of 36 points
++ Nifty Options 10th Feb Expiry: Maximum Call open interest at 27,000 and Maximum Put open Interest at 25,500.
+
+---
+
+STOCKS TO WATCH
+
+BAJEL PROJECTS
+Secured an "Ultra Mega" order valued at
+over 400 cr from PowerGrid Corp
+
+ASHOKA BUILDCON
+Bags 2 projects worth a total of ¥1319.7 cr
+
+TATA CHEMICALS
+To invest $515 cr for manufacturing unit in
+Tamil Nadu
+
+TUBE INVESTMENT
+Acquires 87% stake in Orange Koi for 73 cr
+
+IREDA
+Board approves €2,994 crore QIP
+
+---
+
+CUES THIS MORNING
+
+Nifty ends in the green, closing near the 100-day moving
+average
+
+ITC tops the Nifty; HDFC Life Insurance is the top loser
+
+Nifty Bank edges higher, led by Kotak Mahindra Bank up
+~3.3%
+
+Nifty Midcap and Smallcap fall for the second straight
+session
+
+Nifty FMCG leads sectoral gains, up 2.3%, with ITC leading
+
+Nifty Realty and Energy close higher; Hitachi Energy jumps
+~14%
+
+Nifty Metal ends in the green, led by Vedanta and SAIL
+Nifty IT falls for the third session; Coforge and OFSS drag
+
+Nifty Pharma declines for the third session; Lupin and Divi's
+Labs weigh
+
+Nifty Auto slips for the second session; Uno Minda down
+~6%
+
+Nifty PSU Bank snaps four-session winning streak; PNB and
+Indian Bank drag
+
+Follow us on @etnowlive |L—
+
+---
+
+CUES THIS MORNING
+
+Wall Street hits a fresh all-time high, jumping 2.5% as
+stocks rebound from the tech selloff
+
+Major US indices close higher with the S&P 500,
+Nasdaq and Dow all gaining on Friday
+
+Tech stocks lead the rally as the software sector
+advances with selling pressure easing
+
+Dow Jones Industrial Average surges 1,207 points in a
+strong risk-on move
+
+Nasdaq Composite rises 2.15%, supported by tech
+buying
+
+S&P 500 climbs 1.97% to end at record levels
+
+US futures trade in the green, indicating continued
+positive momentum
+
+Gold gains 1.3% to $5,043 per ounce
+Silver jumps 2.4% to $78 per ounce
+Brent crude slips 0.7% to $67.6 per barrel
+
+Bitcoin advances 1.2% to $70,336, reclaiming and
+holding above $70,000
+
+Follow us on @etnowlive
+
+---
+
+EI NUW ™ WEIINUVVLIVEe: 5m
+
+mu #NewsFatafat | Japan’s prime
+minister Sanae Takaichi secures a
+historic landslide with a two-thirds
+majority, opening the door for tax
+cuts and higher defence spending,
+drawing global attention as Donald
+Trump congratulates her ona
+decisive political victory
+
+#Japan...
+
+Sanae Takaichi Sweeps
+Japan Election
+
+---
+
+BROKERAGE
+Bernstein On SBI |
+
+RAVAK
+
+¢ Maintain Market-Perform with target price of Rs 1100
+
++ Q3: A Solid beat with a 16% loan growth
+
+« Loan growth materially outpacing the system growth and even that of the large private banks
+¢ Non-interest income saw a sharp uptick, driven by higher other income
+
+¢ Asset quality trends also strengthened
+
+¢ RoA comfortably above the 1% mark and RoE above 20% NDTV
+
+---
+
+| BROKERAGE
+RAVAK
+
+Investec On Tata Steel
+
+¢ Maintain Hold with target price of Rs 188
+
+¢ To gain from sectoral tailwinds
+
++ Operating metrics and cost efficiencies were encouraging
+
+¢ Historically high cost capitalization - a variable that shouldn't be ignored
+
+For India, management indicates spreads have likely bottomed out until the expiry of safeguard
+measures
+
+¢ In the UK, the path to breakeven remains dependent on government-imposed tariffs and quotas
+¢ Netherland could experience an uptick following contract revisions after Q4 as per management
+
+¢ Retain HOLD, given structural issues
+
+---
+
+| BROKERAGE
+Bernstein On India US Trade Deal | AAU AAR
+
+« The US and India treaty appears fairly constructive and it looks like a positive setup
+
+« Looks like a mature handling of the trade agreement from the US and India—which has been missing for a year now
+
+Market euphoria was fading away leading to skepticism over how beneficial the deal is to India
+
+This announcement clears up much of that, and sets the markets for a relief
+
+Believe the fine print released so far is broadly positive for markets, especially for auto components and shields pharma from
+a potential negative
+
+* The economic costs of switching to far-off crude will also be outweighed by tariff benefits
+
+Various other products such as textiles, gems and jewelry, organic chemicals, etc., where India has high exports to the US,
+will now face 18% duty vs 50% earlier; So this is a positive
+
+However, there are not many direct and large stocks to invest in to play this benefit
+
+Remain Neutral on India with a 28,100 Nifty target NDTV
+Near-term short-term rally argument is for Nifty moving until 26,500, closer to where we started the year Dp rofit
+
+FOR YOUR PROFIT
+
+---
+
+RedboxGlobal India @ @RE... -1d G
+INDIA REACHES FRAMEWORK FOR
+INTERIM TRADE AGREEMENT WITH U.S.;
+TO CUT TARIFFS ON ALL U.S. INDUSTRIAL
+GOODS AND KEY AGRI, FOOD, WINE &
+SPIRITS PRODUCTS
+
+O6 no O273 8 i2sk Qo &
+
+RedboxGlobal India @ @RE... -1d G
+TRUMP: U.S. HAD GOOD TALKS WITH
+IRAN; SAYS IRAN WANTS A DEAL,
+ANOTHER MEETING NEXT WEEK, AND
+THERE IS PLENTY OF TIME FOR AN IRAN
+DEAL.
+
+---
+
+RedboxGlobal India @ @RE... -2d J
+WHIRLPOOL INDIA:
+
+Q3 CONS NET PROFIT 265M RUPEES VS
+439.6M (YOY) || Q3 REVENUE 17.7B
+RUPEES VS 17B (YOY)
+
+Q3 EBITDA 909M RUPEES VS 693M (YOY)
+|| Q3 EBITDA MARGIN 5.13% VS 4.06%
 (YOY)
 
-Os Tl2 O54 S5K QS
+>) td3 O54 Wg92k PS
 
-RedboxGlobal India @ @RE... -1h
-SHUKRA PHARMACEUTICALS:
+RedboxGlobal India @ @RE... -2d G
+FAIRCHEM ORGANICS:
 
-Q3 SL NET PROFIT 203M RUPEES VS 32M
-(YOY) || Q3 REVENUE 391M RUPEES VS
-106M (YOY)
+Q3 SL NET LOSS 1M RUPEES VS PROFIT
+35M (YOY) || Q3 REVENUE 1B RUPEES VS
+1.14B (YOY)
 
-Q3 EBITDA 271M RUPEES VS 39M (YOY) ||
-Q3 EBITDA MARGIN 69.32% VS 37.20%
+Q3 EBITDA 42M RUPEES VS 78M (YOY) ||
+Q3 EBITDA MARGIN 4.17% VS 6.9% (YOY)
+
+---
+
+RedboxGlobal India @ @RE... -1d
+TATA STEEL:
+
+Q3 CONS NET PROFIT 26.9B RUPEES VS
+3.27B (YOY); EST 25B || Q3 REVENUE
+570B RUPEES VS 536.5B (YOY)
+
+Q3 EBITDA 82B RUPEES VS 59B (YOY) ||
+Q3 EBITDA MARGIN 14.39% VS 11% (YOY)
+
+O10 tir 0393 hi33.7K QS
+
+RedboxGlobal India @ @RE... -1d J
+SULA VINEYARDS:
+
+Q3 CONS NET PROFIT 91M RUPEES VS
+281M (YOY) || Q3 REVENUE 1.95B RUPEES
+VS 2.17B (YOY)
+
+Q3 EBITDA 310M RUPEES VS 530M (YOY)
+|| Q3 EBITDA MARGIN 15.82% VS 24.42%
 (YOY)
 
 ---
 
-= RedboxGlobal India @
-i= @REDBOXINDIA
+Reema Tendulkar @
+@Reematendulkar
+Vodafone Idea in focus
 
-TRANSPORT CORPORATION OF INDIA:
+Promoter KM birla bought 2.21 cr shares
+on 30th Jan and 1.88 cr shares on 1st Feb
+This is ~0.03% of o/s shares
 
-Q3 CONS NET PROFIT 1.15B RUPEES VS
-1B (YOY) || Q3 REVENUE 12.5B RUPEES
-VS 11.4B (YOY)
+Promoters hold ~25.5% stake in the co
 
-Q3 EBITDA 1.27B RUPEES VS 1.19B (YOY)
-|| Q3 EBITDA MARGIN 10.17% VS 10.33%
-(YOY)
+Is Promoter buying vote of confidence?
+CMP at 11.12 vs 52week high of 12.8 hit in
+Dec post AGR relief
 
----
+Stk off 13% from 52 week highs
 
-RedboxGlobal India @ @RE... -2h J
-METROPOLIS HEALTHCARE:
-
-Q3 CONS NET PROFIT 414M RUPEES VS
-314M (YOY) || Q3 REVENUE 4.06B RUPEES
-VS 3.2B (YOY)
-
-Q3 EBITDA 948M RUPEES VS 720M (YOY)
-|| Q3 EBITDA MARGIN 23.36% VS 22.31%
-(YOY)
-
-CO APPROVED AND RECOMMENDED THE
-ISSUANCE OF BONUS EQUITY SHARES IN
-THE PROPORTION OF 3:1
-
-O1 a4 O42 59K Qo
-
-RedboxGlobal India @ @RE... -2h J
-SAMMAAN CAPITAL:
-
-Q3 CONS NET PROFIT 3.14B RUPEES VS
-3B (YOY) || Q3 REVENUE 21.6B RUPEES VS
-20.1B (YOY)
+#StocksInFocus @nimeshscnbc
+@VodafoneIN_ News @AdityaBirlaGrp
+@CNBCTV18News
 
 ---
 
-=
-(a
+Ms CNBC-TV18 @ @CNBCTV18Live -6m
 
-RedboxGlobal India @ @RE... -3h G
-XPRO INDIA: Q3 SL NET PROFIT 87M
-RUPEES VS 97M (YOY)
-
-Q3 REVENUE 1.06B RUPEES VS 1.05B
-(YOY)
-
-Q3 EBITDA 110M RUPEES VS 107M (YOY) ||
-Q3 EBITDA MARGIN 10.38% VS 10.26%
-(YOY)
-
-QO mM O32 tht 71K QHs
-
-RedboxGlobal India @ @RE... -3h G
-WELSPUN ENTERPRISES: Q3 CONS NET
-PROFIT 267M RUPEES VS 775M (YOY)
-
-Q3 REVENUE 7.9B RUPEES VS 8.96B
-(YOY)
-
-Q3 EBITDA 1.54B RUPEES VS 1.57B (YOY)
-|| Q3 EBITDA MARGIN 19.57% VS 17.52%
-(YOY)
-
-Q3 PBT AT 1.09B VS 1.17B (YOY) || CO HAS
-AN EXCEPTIONAL ITEM OF 489M
+SNES #CNBCTV18Market | #Market opens higher, all
+major indices are in in the green. #NiftyBank
+opens over 1% higher, while #Nifty gains nearly
+200 points
 
 ---
 
-Prashant Nair @ @_pras... - 39m
-Software Stocks Overnight !
+This is to inform that the National Centre for Public Health and Pharmacy, Hungary (“NCPHP”)
+has conducted an inspection of the manufacturing facility of the Company’s wholly owned
+subsidiary, Panacea Biotec Pharma Limited (“PBPL”) at Baddi, Himachal Pradesh, India
+(‘“Baddi Facility”) from January 26, 2026 to January 31, 2026.
 
-Cognizant +2.2%
-Accenture +0.18%
-EPAM +0.79%
-Globant +3.9%
-Gartner -1.5%
-Infosys ADR -3.3%
+Following the inspection, NCPHP issued a “Statement of non-compliance with Good
+Manufacturing Practice” (“GMP”) dated February 03, 2026, received by PBPL on February 04,
+2026, wherein NCPHP has considered that the Baddi Facility does not comply with the GMP
+requirements as laid down in Directive (EU) 2017/1572, resulting in revocation of all valid GMP
+certificates issued by NCPHP (“GMP Certificates”). NCPHP has proposed halting of supplies
+of non-vital products, except those supplying patients being on treatment with oncology
+products.
 
----
+However, officials of NCPHP did not observe any behaviour or manufacturing process that
+would pose risk to the quality of products already released.
 
-Sharad Dubey @
-@Sharad9Dubey
+This is to clarify that PBPL is not supplying any oncology related products in European Union
+markets.
 
-KEY PLANT ANNOUNCEMENTS
+During FY 2024-25, PBPL’s revenue to European Union markets contributes around 0.32% of
+the total consolidated net revenues of Panacea Biotec Limited. PBPL’s export revenue in
+European Union markets represents products that are vital for patients undergoing long term
+immunosuppression or anti-viral therapy. Any interruption of supply could pose a significant
+clinical risk to patients. This aspect is being taken into account in the ongoing risk-benefit
+assessment in close coordination with the relevant regulatory agencies.
 
-Quality Power: The company
-updates that the Sangli plant will
-be completed earlier by Jun 2026
-instead of Sep 2026.
-
-Apollo Tyres: The company approves
-Rs 5,810 crore capex in its Andhra
-Pradesh plan
-
-Berger Paints: The company informs
-that its Resin facility in Andhra
-Pradesh has commenced production
-with a capacity of 12,000 MT per
-annum.
+We are committed to maintaining the highest standards of quality and compliance. We are in the
+process of implementing comprehensive corrective and preventive actions (CAPA) and will
+request a re-inspection at the earliest possible opportunity to restore the GMP Certificates.
 
 ---
 
-@=—= RedboxGlobal India @
-= @REDBOXINDIA
-
-Spot silver continued its sharp decline,
-falling more than 15% to $74.68 per
-
-ounce.
-
----
-
-JIGNANSHU GOR
-BERNSTEIN
-
-66
-
-Eternal and Swiggy may face earnings pressure
-from Zepto, Amazon, and Reliance Retail
-
-The quick-commerce market is large but lacks a
-structural moat
-
-Believe Swiggy’s Instamart business is
-undervalued
-
-Growth across QSRs, barring Jubilant, has been
-very disappointing
-
-Itis difficult to say whether QSRs are at an
-inflection point
+Financial & Operational Performance: Despite global
+uncertainties, Panacea Biotec demonstrated resilience and
+sustained growth. Consolidated revenues stood at %5,591
+million, with vaccines contributing ~55%, and the balance
+from pharmaceuticals, nutrition and allied businesses. The
+revenues from our vaccines business was 3,098 million. Our
+pharmaceutical and nutrition business grew by ~25% YoY,
+driven by stronger international expansion, robust domestic
+performance, and contract manufacturing.
 
 ---
 
-JIGNANSHU GOR
-BERNSTEIN
+SANDEEP TANDON
+QUANT MUTUAL FUND
 
-66
+6%
 
-Believe Trent's growth will continue to increase
-nominally, with expectations of ~21-22% growth
+Maintains a constructive view on the pharma space
 
-Trent's valuations do not indicate any growth
-slowdown
+Pharma has underperformed relative to
+expectations
 
-Zudio targets young consumers and is more
-fashionable compared to peers
+The $/Z level appears to have peaked
 
-Eternal is a clear leader versus Swiggy
+Indian markets are well placed to outperform
 
-Swiggy can achieve CM break-even by QI FY27, as
-guided
+Expects further time correction in Indian IT stocks
 
-Swiggy has sufficient cash to sustain operations
-
----
-
-Yatin Mota @
-
-@yatinmota
-From BigMint - STEEL REBAR PRICES UP
-(SARIYA / TMT BAR)
-
-Steel players hike steel rebar prices by upto
-Rs 3000 per ton
-
-Post-revision, list prices stood at INR
-57,000-58,000/t
-
-Inventory levels at primary mills fell by
-around 40% m-o-m in early-February 2026
-
----
-
-s%
-CNBC
-Tv18
-
-CNBC-TV18 @ @CNBCTV18_Live : 47s
-#CNBCTV18Market | HAL extends losses, falls
-nearly 5% after Morgan Stanley downgrades
-CO
-
----
-
-= RedboxGlobal India @
-i= @REDBOXINDIA
-
-Kotak Mahindra Bank is recruiting as many as
-500 engineers as the billionaire Uday Kotak-
-backed Indian lender pushes to amp up its
-technology to lift its long-term competitiveness
-
----
-
-—<_—
-0
-
-cheno
-
-Mitsu Chem Plast Limited Becomes Global Supplier to
-Arjohuntleigh Polska (Poland)
-Mumbai, February 05, 2026 — Mitsu Chem Plast Limited (BSE: 540078), one of the leading
-
-Indian polymer solutions companies, has entered into a Global Supplier Agreement with
-Arjohuntleigh Polska Sp. z 0.0,, following a year-long validation Process and approvals.
-
-‘This agreement marks Mitsu Chem Plast Limited's onboarding as a global supplier to the Arjo
-Group, one of the world’s Top 5 leading medical equipment companies. The association reflects
-Mitsu's strong manufacturing capabilities, Professional Approach, consistent quality, and
-‘compliance with international standards.
-
-Under the agreement, Mitsu Chem Plast will supply Hospital furniture parts and other related
-plastic accessories. These products support patient safety, caregiver ergonomics, and efficient
-risk management in healthcare industry.
-
-‘The partnership strengthens Mitsu Chem Plast's presence in the global Furniture parts supply
-
-ernational markets. It also creates long-term
-growth opportunities by expanding the Company's hospital furniture parts portfolio and
-supporting export-led business growth.
-
-The engagement also comes at a time of strengthening India-European Union trade relations,
-supported by the recently concluded India-EU trade agreement, which is expected to improve
-export competitiveness and ease market access for specialised polymer and healthcare
-component manufacturers, thereby supporting Mitsu Chem Plast’s long-term international
-business expansion.
-
-This milestone reinforces Mitsu Chem Plast’s strategie focus on high-value medical and
-healthcare applications and its commitment to delivering reliable polymer solutions to global
-customers.
-
-Reflecting on the Development, Mr. Sanjay Dedhia, Managing Director of Mitsu Chem
-Plast Limited said, “We are feeling proud and pleased to enter into a Global Supplier Agreement
-with Arjohuntleigh Polska Sp.z 0.0, which marks an important milestone for Mitsu Chem Plast
-Limited. Successfully completing a year-long validation process reflects the strength of our
-product quality, manufacturing discipline, and ability to meet stringent global standards.
-
-‘This partnership positions Mitsu as a trusted supplier in the global healthcare ecosystem and
-strengthens our presence in the hospital furniture and medical equipment components vertical.
-Italso supports our strategy of expanding exports, diversifying our customer base, and building
-long-term, sustainable relationships with global leaders. We believe this association will
-enhance aur brand credibility and create meaningful growth opportunities over the coming
-
----
-
-Meestro
-
-REGISTERED OFFICE
-364/C, Lamington Chambers,
-
-Lamington Road, Mumbai,
-
-Maharashtra, 400004
-
-CIN: U1 1012MHZ024TC432524
-
-Press Release for Immediate Dissemination
-
-ABD Maestro makes an exceptional Luxury debut with
-“The Collective’ Limited Edition 34-Year-Old Single Malt
-
-Superstar Ranveer Singh, co-founder of ABD Maestro, is thrilled as the company debuts a
-rare and exclusive release of 60 hand-crafted, individually numbered bottles priced at 11
-Lakhs each
-
-Mumbai, 05% February 2026: ABD Maestro Pvt. Ltd., the super-premium and luxury spirits
-brand company and a subsidiary of Allied Blenders & Distillers (ABD), has announced the
-landmark debut of its ultra-grand ‘The Collective’ Limited Editions in india. The first
-expression launched is the very rare 34-year-old Speyside Single Malt, Distilled at Macallan
-Distillery in 1991.
-
-“The Collective’ promises to present the world’s most extraordinary spirits to the
-knowledgeable and discerning, starting with India.
-
----
-
-Silver futures drop Rs 16,131 today, near
-Rs 2.5 lakh per kg; what's ahead?
-
->
-
-»
-
-MCX silver futures for March delivery plunged 6 per cent in
-Thursday’s trade, falling to near the Rs 2.5 lakh per kg mark.
-
-The precious metal was trading at a low of Rs 2,52,719 per
-kg, down Rs 16,131, or 6 per cent, tracking a fall in global
-silver prices.
-
-Silver's recent sharp rally was driven by structural supply
-constraints amid rising industrial demand from solar, EVs
-and technology, though its higher volatility warranted
-amore measured approach in 2026, as per Motilal Oswal
-Private Wealth.
-
----
-
-KENNETH ANDRADE
-OLD BRIDGE CAPITAL
-
-66
-
-2026 is expected to be another year of consolidation
-
-Valuations appear fair for India at this point
-
-Astrong boost in market sentiment is positive for the
-long term
-
-2027 should begin with reasonable valuations
-
-Earnings are likely to improve in 2027, with demand
-recovery
-
-Valuations for financials look benign, while tech remains
-steady
-
-There is considerable noise at the macro level
-
-Services as an industry are expected to continue growing
+Does not recommend going short on IT, as
+negativity is largely behind
 
 Follow us on BX@ @etnowlive
 ‘NOW.IN.
 
 ---
 
-am = RedboxGlobal India @
-= @REDBOXINDIA
+SANDEEP TANDON
+QUANT MUTUAL FUND
 
-Officials in India — including senior
-advisers and state governments — are
-openly discussing whether to introduce
-age-based limits on access to social media
-platforms. This discussion has intensified
-against the backdrop of similar moves
-internationally, such as Australia’s ban on
-under-16s accessing major social media
-services.
+6%
 
----
+Indian markets are currently in a consolidation
+phase
 
-PressRelease
+Market negativity is settling down, and the worst
+appears to be over
 
-‘Stronger Governance, Sharper ESG Outcomes: Capri Global Steps
-Up Sustainability Focus
+The best phase for the market is still ahead
 
-‘Mumbai, 5 February 2026: Capri Global Capital Ltd. (Capri Loans), a leading non-banking
-financial company, has further strengthened its sustainability and governance profile,
-underscoring its long-term commitment to responsible growth, strong governance,
-disciplined risk management and transparency.
+The correction in SMIDs was driven by lower buying
+volumes
 
-‘The Company has Implemented focused, organisation-wide initiatives to embed ESG
-principles across governance oversight, risk controls, technology-led processes, responsible
-lending practices and enhanced disclosures.
+No immediate trigger or sharp recovery is expected
+in SMIDs
 
-ESG Integration is embedded across Capri Global's lending portfollo. In the Gold
-Loan segment, credit enables small traders to manage cyclical cash flow needs and scale
-activity during peak festive periods or agricultural harvest cycles, supporting business
-continulty and local employment. In the MSME and Housing Finance segments, improved
-access to formal credit for entrepreneurs and households, contributes to better living
-standards and poverty alleviation. Through its Construction Finance vertical, the company
-supports the new construction and redevelopment of affordable residential communities,
-directly enhancing quality of life and enabling inclusive urban growth.
-
-‘These efforts have translated into measurable and externally recognised outcomes. Capri
-Global recorded an S&P Global ESG score of 71, representing a 43% year-on-year
-improvement, alongside a ‘Low Risk’ ESG Risk classification with a score of 19.7, as assessed
-by Morningstar Sustainalyties. The Company also received a score of 64 (Strong) from
-ESGRiskal and a rating of 64 (Strong, Low Risk) from CRISIL, further validating the strength
-ofits sustainability and governance framework.
-
-Commenting on the achievement, Jinisha Sharma, Principal - ESG & Impact
-Investments, Capri Global Capital Ltd., said:
-
-“These outcames reflect Capri Global's consistent efforts to bulld a transparent, resilient, and
-responsibly governed institution. Our focus on strengthening governance frameworks,
-‘sharpening risk management practices, leveraging technology, and embedding sustainability
-‘across the organisation has been central to this progress. We believe this milestone reinforces
-‘stakeholder confidence and supports our long-term commitment to sustainable growth.”
-
-A stronger ESG profile showcases resilient growth along with enabling deeper engagement
-‘with global lenders, institutional investors, and financial institutions, facilitating access to
-broader and diversified capital base.
-
----
-
-Mamata Machinery launches breakthrough recyclable packaging
-technology ‘RecTech™’ at Plastindia 2026
-
-New Delhi, India - February 5, 2026: Mamata Machinery Limited ‘Mamata’ or ‘the Company"), a leading
-machinery solution provider in the flexible packaging industry, today announced the launch of its pioneering
-tecyclable packaging technology. ‘RecTech™’, at Plastindia 2026, one of India’s premier plastic industry trade
-exhibitions being held at Bharat Mandapam, New Delhi, between 5'* to 10! of February.
-
-RecTech™ is an advanced, fully recyclable mono-material film engineered to deliver superior barrier protection and
-mechanical performance compared to conventional non-recyclable composite film structures such as PET+PE and
-PET4MPET+PE, which are commonly used for flexible packaging applications in India. Given their composite
-structure, these films are not fully recyclable and pose a major challenge for plastic waste management, as well as
-for brand owners striving to comply with Extended Producer Responsibility (EPR) mandates.
-
-Designed to address the industry's dual challenge of performance and sustainability, RecTech™ not only
-outperforms traditional PET+PE films but also bridges the cost gap between conventional composite materials and
-previously high-priced recyclable films. This innovation is poised to accelerate the widespread adoption of
-sustainable packaging among leading domestic brands by bringing recyclability and cost efficiency together at scale.
-
-The RecTech™ launch is complemented by a comprehensive recyclable-compatible packaging ecosystem
-developed by Mamata, incorporating 7/9-layer co-extrusion blown film plants, pouch makers, and HFFS & VFFS
-packaging machines — all designed and manufactured indigenously by the Company. This complete ecosystem
-enables film production, conversion, and packaging within a unified recyclable framework.
-
-With RecTech™, Mamata aims to help brand owners and converters achieve their sustainability goals without
-compromising on barrier performance, machinability, or commercial scalability, marking a significant step forward for
-India’s flexible packaging industry.
-
----
-
-&@ EMERALD
-
-Dated: 05.02.2026
-
-To
-
-Department of Corporate Services,
-BSE Limited,
-
-25th Floor, P.J. Towers,
-
-Dalal Street, Mumbai-400001
-
-Sub: Disclosure pursuant to Regulation 30 of LODR Regulations, 2015
-Sir/Madam,
-
-Pursuant to the Regulation 30 of Securities and Exchange Board of India (Listing Obligations and
-Disclosure Requirements) Regulations, 2015, we would like to inform you that the company has
-partnered with Aruna Enterprises, Haryana, to offer its Early-Wage-Access program to the
-employees of the Company.
-
-This partnership aims to provide an instant financial relief to the employees by allowing them to
-access part of their salaries seamlessly throughout the month. The Company, in line with its
-vision to expand its offerings and to serve retail customers at large had been working on a salary
-advance solution. This product entails tying up with employers to offer short term loans as salary
-advance. The amount lent is then collected through salary deduction.
-
-This is for your information and records.
-
-Yours sincerely
-
-For Emerald Finance Limited
-AMARUE Sisto”
-ET KAUR isisesohor
-
-(Amarjeet Kaur)
-Company Secretary cum Compliance Officer
-Membership No.: F13755
-
-EMERALD FINANCE LIMITED
-
-CCIN + L65993CH1983PLC041774
-
-Industral Area Phase Il, Chandigarh (India), 160002
-
-+491-172-46038589 [E-mail info@emeraldfin.com | Website: www.emeraidfin com
-
----
-
-Arkade Developers registers Development Agreement for mixed-use redevelopment
-project at Goregoan West with projected GDV of INR 350 crores
-
-Mumbai 5" February 2026: Arkade Developers Limited, a leading listed real estate entity in Mumbai,
-hhas signed the Development Agreement for a premium redevelopment project Jal Ratan Deep at
-Bangur Nagar, Goregaon West, with an estimated Gross Development Value of %350 crore.
-
-The development will be undertaken on a plot admeasuring approximately 4,640.60 sq. metres and
-will be designed to include Luxury 2- & 3-bedroom residences, in line with Arkade’s commitment to
-delivering high quality redevelopment solutions.
-
-Envisioned as a contemporary high-rise development, this project will offer luxurious homes and
-commercial spaces in Goregoan West, a prominent micro-market in the western suburbs of Mumbai.
-Catering to high-end users seeking larger homes, it strengthens the area's mixed-use character and
-boosts Bangur Nagar's commercial ecosystem ~ enhancing the overall urban experience.
-
-Commenting on the launch, Mr. Amit Jain, CMD, Arkade Developers Limited, said, “This development
-aligns with our vision of building sustainable, future-ready urban spaces, strengthening our footprint
-in key western suburbs. We have 4 projects completed and 3 ongoing in Goregaon-Malad micro
-market. In addition to Jal Ratan Deep, we have another project adjacent to the project lined-up for
-launch this month with an estimated GDV of £230 Crores. The aggregated projected GDV for both the
-projects is 580 Crs. This move reinforces our presence, creates long-term value for residents, and
-offers thoughtfully planned larger homes to new buyers.”
-
-About Arkade Developers Lt
-
-Arkade Developers is a leading luxury real estate developer in Mumbai and js listed on both the
-exchanges, BSE (544261) and NSE (ARKADE). With a rich legacy spanning over 39 years, the company
-has established itself as a symbol of quality and excellence.
-
-Under the leadership of Chairman and Managing Director Mr. Amit Jain, Arkade Developers has
-transformed into one of Mumbai's most respected real estate firms. The company has completed 31
-projects under his vision and created homes for over 5,500 happy families. Guided by the core
-philosophy of "Family First," Arkade Developers focuses on building family-friendly homes and
-upholds values such as trust, transparency, commitment, and happiness.
-
-Known for its timely project deliveries, Arkade Developers has made a significant mark in the Mumbai
-real estate sector, having developed over 5.5 million square feet of property, with an additional 2+
-million square feet currently under construction.
-
-The company's commitment to quality is reflected in its meticulous planning, innovative designs, and
-use of advanced technologies, which ensure that every project is delivered on time and to the highest
-standards.
-
-39 years of legacy | 31 projects completed | 5.5+ M sq. ft. developed | 2+ M sq. ft.
-under development | 5,500+ Happy Families | Listed on BSE & NSE | Pioneers in
-Timely Delivery
-
----
-
-COMMERCE MINISTER
-
-India signs Terms of Reference (ToR) for an FTA with the Gulf
-Cooperation Council
-
-ToR signed with all six GCC nations after three decades of discussions
-
-India and GCC have traded for over 5,000 years; FTA seen as a natural
-progression toward robust trade arrangements
-
-Agreement aimed at bringing predictability and stability to trade ties
-India’s 9 FTAs with developed nations currently cover 38 countries
-FTA expected to further strengthen trade and bilateral relations
-
-Likely to boost investments and create job opportunities in both
-regions
-
-Focus on enhancing food and energy security
-Bilateral trade between India and GCC stands at $179 billion
-
-GCC seen as key partner for energy diversification
-and large-scale investments ( mn |
-
-Investment flows expected to gain further momentum
-
-PIYUSH GOYAL
+The SMID correction was not due to earnings
+disappointment
 
 Follow us on BX@ @etnowlive
-
-NOW.IN
-
----
-
-RedboxGlobal India @ @REDBOXI... -1m
-DEEP INDUSTRIES: Q3 CONS NET PROFIT
-681M RUPEES VS 436M (YOY)
-
-DEEP INDUSTRIES: Q3 EBITDA 1B RUPEES VS
-667M (YOY) || Q3 EBITDA MARGIN 45.22% VS
-43.1% (YOY)
+‘NOW.IN.
 
 ---
 
-On
-COMMERCE MINISTER
+JAN GENERAL INSURANCE DATA
 
-No investment commitments are part of the agreement
+Go Digit General Insurance Premium Up 34% YoY
 
-India’s fast-paced growth will require large imports of
-energy, data centre equipment, ICT products and
-aircraft
+Bajaj General Insurance Premium Up 9% YoY
 
-Bilateral trade potential estimated at $500 billion
+ICICI Lombard Premium Up 16% YoY
 
-India estimates it can buy $500 billion worth of goods
-from the US
+¢ New India Assurance Premium Down 7% YoY
 
-¢ India’s aircraft orders from the US alone may exceed
-$100 billion
+¢ Star Health Premium Up 18% YoY
 
-$500 billion bilateral trade target, agreed by both
-leaders in Feb 2025, will need sourcing and exports
+¢ Niva Bupa Premium Up 36% YoY
 
-Process to finalise the joint statement will be er
-completed virtually es
+¢ General Insurance Industry Premium Up 15% YoY
 
-PIYUSH GOYAL
-
-Follow us on BX@ @etnowlive
-NOW.IN
+¢ Standalone Health Insurance Premium Up 25% YoY
 
 ---
 
-On
-COMMERCE MINISTER
+& AXISCADES
 
-¢ Talks between India and the US are progressing well
+AXISCADES wins large production order for supplying avionics
+hardware for LCA Mk1A Program scaling up the indigenisation.
 
-¢ First tranche of the Bilateral Trade Agreement (BTA) is
-almost ready
+Bengaluru, India - 09" February 2026: AXISCADES Technologies Limited (BSE: 532395
+| NSE: AXISCADES), a chip to product company and a pioneer in Aerospace, Defence,
+Electronics, Semiconductor and Artificial Intelligence (ESAI) headquartered in
+Bangalore, India, announces new win in Defence division by its subsidiary Mistral
+Solutions.
 
-Joint statement likely to be finalised in the next 4-5
-days
+Mistral Solutions, a leader in high-performance embedded systems and defence
+electronics, today announced the receipt of an order valued at approximately 80 crore
+under the prestigious LCA Mk1A programme of Hindustan Aeronautics Limited (HAL).
 
-Formal legal agreement is being drafted; may take
-about 1.5 months
+This strategic win underscores AXISCADES Group’s strong commitment to the
+indigenisation of advanced avionics systems. Under this programme, Mistral Solutions
+will supply electronic hardware for the following critical subsystems, further
+strengthening its long-standing partnership with the Defence Research & Development
+Organisation (DRDO) and HAL:
 
-¢ Agreement could be signed by mid-March
+* Mission Computer
+* Smart Multifunction Display
 
-18% tariff cut to become effective after signing of an
-executive order
+All systems will be manufactured and delivered from AXISCADES’ newly commissioned
+DAL (Devanahalli Atmanirbhar Complex) facility located at the Bangalore Aerospace
+Park, near Kempegowda International Airport.
 
-A joint statement is issued after every FTA and later
-converted into a legal agreement .
+Commenting on the development, Mr. C. Manikandan, CEO, Mistral Solutions Private
+Limited, said: “This programme win reflects the AXISCADES Group’s continued
+commitment to defence indigenisation and the ‘Make in India’ initiative. We believe
+this opportunity positions us strongly for participation in upcoming defence
+programmes.”
 
-PIYUSH GOYAL
+---
 
-Follow us on BX@ @etnowlive
-NOW.IN
+am RedboxGlobal India @
+
+| bawal @REDBOXINDIA
+
+JYOTHY LABS: Q3 CONS NET PROFIT 811M
+RUPEES VS 874M (YOY)
+
+JYOTHY LABS: Q3 EBITDA 1.11B RUPEES VS
+1.16B (YOY) || Q3 EBITDA MARGIN 14.97%
+VS 16.45% (YOY)
+
+---
+
+= RedboxGlobal India @
+i= @REDBOXINDIA
+
+LIC: CO 1ST YEAR PREMIUM INR 204.41
+BLN IN JAN, UP 25.5% YOY
+
+SBI LIFE: CO 1ST YEAR PREMIUM INR 35.34
+BLN IN JAN, UP 7.9% YOY
+
+---
+
+Kerala Blasters FC Partners with MosChip as Official
+Technology Partner
+
+Kerala Blasters FC are pleased to announce a partnership with MosChip Technologies as the
+Club's Official Technology Partner for the 2025-26 season. The collaboration will support the
+Club's growing focus on integrating technology into athlete performance and wellbeing.
+
+MosChip Technologies is a global silicon and product engineering services company with over
+two decades of expertise across chip design, hardware engineering, embedded software, and
+digital solutions.
+
+As a part of the association, MosChip will support Kerala Blasters FC's technology-driven
+initiatives and help strengthen the Club's digital and innovation-led ecosystem.
+
+The partnership will see Kerala Blasters FC and MosChip co-develop an athlete performance
+application that turns wearable data into context-aware, personalized insights on player health,
+readiness, and recovery at both team and individual levels - built on MosChip's AgenticSky
+WearableCore accelerator, with role-based access for coaches and players.
+
+---
+
+*ZEUROGRIP
+
+Eurogrip Tyres Launches Exclusive Retail Outlet in Alappuzha
+
+Alappuzha, 9" February, 2026: Eurogrip Tyres, India’s leading 2 & 3-wheeler tyre brand from TVS
+Srichakra Ltd., inaugurated its 12th branded signature store, strengthening the company’s retail
+footprint and national expansion strategy.
+
+With the opening of the store in Alappuzha in Kerala, the brand is looking to explore the state’s strong
+two-wheeler culture and steadily grow automotive aftermarket. The new retail outlet was inaugurated
+on 29" January in the presence of distinguished guests including members of the Eurogrip team and
+business partners.
+
+Speaking on the occasion, Mr. T K Ravi, COO, TVS Srichakra Ltd said, “Kerala is a key market for
+Eurogrip, both in terms of scale and strategic importance. The state's growing demand for quality
+automotive services makes it vital for our expansion. This store is a step forward in bringing our brand
+closer to consumers. Eurogrip’s flagship stores across India are offering customers expert and quality
+service along with all tyre related needs.”
+
+The store houses entire range of two-wheeler tyres available in varied patterns and sizes and tubes,
+catering to a wide variety of scooters, commuter bikes, mid-range performance bikes, adventure
+touring bikes and superbikes. It is also equipped to offer services such as tyre fitment, tyre care &
+puncture repair, air pressure checks, lubricant and engine oil changes. In addition, the store will handle
+warranty related queries.
+
+---
+
+Ace RedboxGlobal India @
+i= @REDBOXINDIA
+
+VENKY'S (INDIA): Q3 SL NET PROFIT 486M
+RUPEES VS 204M (YOY)
+
+VENKY'S (INDIA): Q3 EBITDA 699M RUPEES VS
+291M (YOY) || Q3 EBITDA MARGIN 7.3% VS 3.3%
+(YOY)
+
+---
+
+o
+—
+
+RedboxGlobal India @ @RED... -24m JG
+KAVERI SEED CO.: Q3 CONS NET PROFIT
+130M RUPEES VS 154M (YOY)
+
+KAVERI SEED CO.: Q3 EBITDA 212M RUPEES
+VS 141M (YOY) || Q3 EBITDA MARGIN 10.1% VS
+8.1% (YOY)
+
+---
+
+= RedboxGlobal India @
+[= @REDBOXINDIA
+
+CHOLAMANDALAM FINANCIAL
+HOLDINGS: Q3 CONS NET PROFIT 6.25B
+RUPEES VS 4.9B (YOY)
+
+---
+
+@mm RedboxGlobal India @ @REDBOXI... - 32s
+= JAIN RESOURCE: Q3 CONS NET PROFIT 1.29B
+
+RUPEES VS 517M (YOY)
+
+JAIN RESOURCE: Q3 EBITDA 2B RUPEES VS
+894M (YOY) || Q3 EBITDA MARGIN 7.2% VS
+5.02% (YOY)
+
+---
+
+LABOUR CODES
+
+¢ Labour codes to come into full effect starting April 1
+
+¢ Two months of implementation so far show
+acceptance by workers, says government
+
+¢ 16 trade unions in support, 13 against
+implementation of codes
+
+Labour Ministry Sources To NDTV Profit
 
 ---
 
